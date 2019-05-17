@@ -38,3 +38,10 @@ user_pref("services.sync.scheduler.immediateInterval", 5);
 // tls version
 user_pref("security.tls.version.min", 3);
 user_pref("security.tls.version.fallback-limit", 3);
+
+// browser cache
+user_pref("browser.cache.memory.max_entry_size", -1);
+
+// media
+user_pref("media.memory_cache_max_size", 2048000);
+user_pref("media.memory_caches_combined_limit_kb", 1000000);
