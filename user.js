@@ -45,3 +45,6 @@ user_pref("browser.cache.memory.max_entry_size", -1);
 // media
 user_pref("media.memory_cache_max_size", 2048000);
 user_pref("media.memory_caches_combined_limit_kb", 1000000);
+
+user_pref("security.secure_connection_icon_color_gray", false);
+
