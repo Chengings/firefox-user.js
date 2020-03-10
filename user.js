@@ -35,10 +35,6 @@ user_pref("browser.tabs.loadDivertedInBackground", true);
 // sync
 user_pref("services.sync.scheduler.immediateInterval", 5);
 
-// tls version
-user_pref("security.tls.version.min", 3);
-user_pref("security.tls.version.fallback-limit", 3);
-
 // browser cache
 user_pref("browser.cache.memory.max_entry_size", -1);
 
