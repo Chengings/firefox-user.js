@@ -1,4 +1,7 @@
-
+// Font
+user_pref("font.name.monospace.th", "Tlwg Typist");
+user_pref("font.name.monospace.x-western", "Source Code Pro");
+user_pref("font.name.sans-serif.x-western", "Inter");
 
 // cache dns
 user_pref("network.dnsCacheExpiration", 300);
