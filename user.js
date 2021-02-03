@@ -4,8 +4,8 @@ user_pref("font.name.monospace.x-western", "Source Code Pro");
 user_pref("font.name.sans-serif.x-western", "Inter");
 
 // cache dns
-user_pref("network.dnsCacheExpiration", 300);
-user_pref("network.dnsCacheExpirationGracePeriod", 300);
+// user_pref("network.dnsCacheExpiration", 300);
+// user_pref("network.dnsCacheExpirationGracePeriod", 300);
 
 // add more connections to server
 user_pref("network.http.max-persistent-connections-per-server", 20);
